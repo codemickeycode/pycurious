@@ -1,2 +1,7 @@
 # pycurious
-Intro to Python Sample Codes
+
+Sample Codes for Python
+
+- Basic Python
+- Reading and Writing to CSV
+- Data-Science Geared Python Intro
